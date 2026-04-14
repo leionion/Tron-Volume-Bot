@@ -174,5 +174,5 @@ def buy_token(buy_amount:int, token_address: str, wallet_dict: dict, private_key
 ## Contact Info:
 If you have encounter technical issues & development inquiries, please contact here.
 
-#### Telegram: https://t.me/inscNix/
-#### Twitter: https://x.com/chain_sats/
+#### Telegram: https://t.me/leionion/
+#### Twitter: https://x.com/rez_cats/
